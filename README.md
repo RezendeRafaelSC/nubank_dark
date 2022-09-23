@@ -1,16 +1,9 @@
 # nubank_dark
+<h1 align = "center"> Nubank Dark Mode </h1>
 
-A new Flutter project.
+A Flutter project made to help me improve my Flutter and front-end skills. 
 
-## Getting Started
+All this project was made from this figma project: https://www.figma.com/community/file/1010233485805538860 by: https://www.figma.com/@felipemotabr 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Preview](https://user-images.githubusercontent.com/54448066/192029588-d4a23f57-1120-4558-a0b3-7ab5e22b53ab.webm)
